@@ -63,7 +63,7 @@
      <center><p>Already have an account? <a href="Easybank_Login.php">Sign in</a>.</p></center>
     </div>
     <div class="container signin">
-     <center><h3>Go back to <a href="easybank.php">Hompepage</a>.</h3></center>
+     <center><h3>Go back to <a href="index.html">Hompepage</a>.</h3></center>
     </div>
   </form></center>
   

@@ -31,7 +31,7 @@
     </div>
 
     <div >
-     <center><h3>Go back to <a href="easybank.php">Hompepage</a>.</h3></center>
+     <center><h3>Go back to <a href="index.html">Hompepage</a>.</h3></center>
     </div>
   </form></center>
   
