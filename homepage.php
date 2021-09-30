@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
     <title>Frontend Mentor | Easybank landing page</title>
-    <link rel="stylesheet" href="easybank.css">
+    <link rel="stylesheet" href="homepage.css">
 </head>
 <body>
 
@@ -25,7 +25,7 @@
             </ul>
             </div>
         
-        <a href="Easybank_register.php" id="header-btn" >Create an account</a>
+        <a href="register.php" id="header-btn" >Create an account</a>
         
       
       
@@ -45,8 +45,8 @@
                      saving, budgeting, investing, and much more.
                 </p>
                 
-                     <a href="Easybank_register.php" class="req_invite">Create an account</a>
-                     <a href="Easybank_Login.php" class="req_invite">Sign in</a>
+                     <a href="register.php" class="req_invite">Create an account</a>
+                     <a href="login.php" class="req_invite">Sign in</a>
 
             </div>
 
@@ -209,7 +209,7 @@
             </div>
 
             <div class="copyright-button">
-                <a href="Easybank_register.php" class="copyright-btn">Create an account</a>
+                <a href="register.php" class="copyright-btn">Create an account</a>
                 <p> &copy Easybank. All Rights Reserved</p>
             </div>
 
